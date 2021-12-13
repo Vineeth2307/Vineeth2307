@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vineeth
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently working on AIOps.
 - 💞️ I’m looking to collaborate on Data science communities.
 
 <!---
